@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1,"model":{"type":"model","model":"z:_/594d7929895c79"}},{"threshold":2,"model":{"type":"model","model":"z:_/fc7cb4608bf620"}}],"fallback":{"type":"model","model":"item/netherite_axe"}}}

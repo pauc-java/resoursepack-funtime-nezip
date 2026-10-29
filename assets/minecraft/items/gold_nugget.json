@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/gold_nugget"},"entries":[{"threshold":1,"model":{"type":"model","model":"z:_/9e3a20ce109aa8"}}]},"oversized_in_gui":true}

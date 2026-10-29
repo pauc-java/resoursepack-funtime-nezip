@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/crafting_table"},"entries":[{"threshold":1,"model":{"type":"model","model":"z:_/7e2709d0c5dcdc"}}]},"oversized_in_gui":true}

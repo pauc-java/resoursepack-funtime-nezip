@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/amethyst_shard"},"entries":[{"threshold":1,"model":{"type":"model","model":"z:_/320dffc6bdaf4e"}}]},"oversized_in_gui":true}

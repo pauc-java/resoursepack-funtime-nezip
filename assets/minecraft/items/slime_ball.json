@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/slime_ball"},"entries":[{"threshold":1,"model":{"type":"model","model":"z:_/fcbb1f81a08b59"}}]},"oversized_in_gui":true}

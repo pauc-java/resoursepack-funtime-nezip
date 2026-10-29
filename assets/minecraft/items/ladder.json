@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/ladder"},"entries":[{"threshold":1,"model":{"type":"model","model":"z:_/342958bb1ff120"}}]},"oversized_in_gui":true}

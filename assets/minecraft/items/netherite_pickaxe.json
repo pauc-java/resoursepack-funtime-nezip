@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1,"model":{"type":"model","model":"z:_/327e93d071ff30"}},{"threshold":2,"model":{"type":"model","model":"z:_/1ee1dfb1b01f3d"}},{"threshold":3,"model":{"type":"model","model":"z:_/82c6eac7511a60"}}],"fallback":{"type":"model","model":"item/netherite_pickaxe"}}}

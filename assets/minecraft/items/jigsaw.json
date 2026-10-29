@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1,"model":{"type":"model","model":"z:_/41e0799cfccb38"}},{"threshold":2,"model":{"type":"model","model":"z:_/5846a4a4ecda19"}}],"fallback":{"type":"model","model":"block/jigsaw"}}}

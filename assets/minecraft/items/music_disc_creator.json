@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"parent":"minecraft:item/template_music_disc","type":"minecraft:model","model":"minecraft:item/music_disc_creator"},"entries":[{"threshold":1,"model":{"type":"model","model":"z:_/d3fdecc426af2e"}}]},"oversized_in_gui":true}

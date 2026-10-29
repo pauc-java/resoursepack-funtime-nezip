@@ -1,0 +1,1 @@
+{"format_version":"1.9.0","credit":"Made with Blockbench","textures":{"0":"minecraft:items/2c1909367cabe233cf4cdea9"},"elements":[{"from":[0,0,0],"to":[16,16,1],"faces":{"south":{"uv":[0,0,16,16],"texture":"#0"}}}],"gui_light":"front","display":{"gui":{"translation":[0,-1,0]}}}

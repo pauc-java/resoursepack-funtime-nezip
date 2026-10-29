@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:special","base":"minecraft:item/template_skull","model":{"type":"minecraft:head","kind":"wither_skeleton"}},"entries":[{"threshold":1,"model":{"type":"model","base":"minecraft:item/template_skull","model":"z:_/11b6f0fcc4491a"}}]},"oversized_in_gui":true}
